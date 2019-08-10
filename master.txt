@@ -1,0 +1,4 @@
+# hello-world
+
+Here we discuss how bacteria use an anode as an electron acceptor and to what extent they generate electrical output.
+The MFC technology is evaluated relative to current alternatives for energy generation.
